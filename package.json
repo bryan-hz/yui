@@ -6,7 +6,7 @@
     "type": "git",
     "url": "git://github.com/734990893/yui.git"
   },
-  "homepage": "http://734990893.github.io/yui",
+  "homepage": "https://734990893.github.io/yui/",
   "engines": {
     "npm": ">=5",
     "node": ">=8.10.0"
